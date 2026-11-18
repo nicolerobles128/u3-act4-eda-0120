@@ -1,0 +1,7 @@
+﻿id_guia,remitente,destinatario,origen,destino,peso_kg,fecha_envio,fecha_entrega_estimada,costo_envio,estatus
+111,Tienda A,Juan,CDMX,Puebla,2.5,2024-01-10,2024-01-12,150,En transito
+222,Empresa B,Maria,Guadalajara,CDMX,15.0,2024-01-08,2024-01-10,450,Entregado
+333,Startup C,Pedro,Monterrey,CDMX,1.2,2024-01-11,2024-01-13,120,En transito
+444,Tienda A,Ana,CDMX,Monterrey,5.0,2024-01-09,2024-01-11,250,En transito
+555,Particular,Luis,Puebla,CDMX,0.5,2024-01-12,2024-01-13,90,En reparto
+666,Empresa B,Sofia,Guadalajara,Monterrey,10.0,2024-01-07,2024-01-09,350,Entregado
